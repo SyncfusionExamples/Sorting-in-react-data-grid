@@ -6,7 +6,7 @@ Refer to the following documentation to learn about the React DataGrid component
 https://ej2.syncfusion.com/react/documentation/grid/getting-started  
 
 Check out this online example of the React DataGrid component:
-https://ej2.syncfusion.com/react/demos/#/material3/grid/overview
+https://ej2.syncfusion.com/react/demos/#/tailwind3/grid/overview
 
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
