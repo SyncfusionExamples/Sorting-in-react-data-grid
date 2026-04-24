@@ -33,7 +33,7 @@ git clone https://github.com/SyncfusionExamples/Sorting-in-react-data-grid.git
 2. Navigate to the project folder:
 
 ```cmd
-cd https://github.com/SyncfusionExamples/Sorting-in-react-data-grid.git
+cd Sorting-in-react-data-grid
 ```
 
 3. Install dependencies:
