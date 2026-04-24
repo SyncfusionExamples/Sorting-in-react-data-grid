@@ -1,15 +1,54 @@
-# How to Perform Sorting in React DataGrid Component
+# Sorting in React Data Grid
 
-A quick-start project that contains code to perform sorting in the Syncfusion React DataGrid component. This project also includes a code snippet for sorting in initial rendering, Multiple column sorting and custom sorting in DataGrid.
+## Repository Description
 
-Refer to the following documentation to learn about the React DataGrid component: 
-https://ej2.syncfusion.com/react/documentation/grid/getting-started  
+This repository demonstrates how to implement and customize sorting functionality in a React Data Grid using Syncfusion’s React Grid components. It serves as a practical reference for developers who want to understand how different sorting techniques can be applied in a real-world React application to efficiently organize and analyze structured data.
 
-Check out this online example of the React DataGrid component:
-https://ej2.syncfusion.com/react/demos/#/material3/grid/overview
+## Overview
 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
+The project showcases a variety of sorting behaviors in a React-based data grid, including sorting during initial rendering, multiple column sorting, and custom sorting logic. It highlights how grid columns can be sorted in ascending or descending order by default, how users can apply sorting across multiple columns simultaneously, and how developers can override default behavior to implement custom sort comparers. This sample is intended for learning and reference purposes and reflects common data presentation scenarios where flexible sorting significantly improves usability and data exploration.
 
-### How to run this application?
-To run this application, you need to clone the `Sorting-in-react-data-grid` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
+## Key Features
+
+- Demonstrates column-based sorting in a React Data Grid
+- Uses Syncfusion React Grid components
+- Simple and focused example for learning purposes
+- Clear separation of data and grid configuration
+- Suitable for extending with additional grid features
+
+## Prerequisites
+
+- Node.js (Latest version recommended)
+- npm or yarn package manager
+- Basic knowledge of React and JavaScript
+
+## Running the Application
+
+1. Clone the repository:
+
+```cmd
+git clone https://github.com/SyncfusionExamples/Sorting-in-react-data-grid.git
+```
+
+2. Navigate to the project folder:
+
+```cmd
+cd Sorting-in-react-data-grid
+```
+
+3. Install dependencies:
+
+```cmd
+npm install
+```
+
+3. Start the development server:
+
+```cmd
+npm start
+```
+
+## Resources
+
+- Documentation: https://ej2.syncfusion.com/react/documentation/grid/sorting
+- Demo: https://ej2.syncfusion.com/react/demos/#/tailwind3/grid/sorting
