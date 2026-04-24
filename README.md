@@ -33,7 +33,7 @@ git clone https://github.com/SyncfusionExamples/Sorting-in-react-data-grid.git
 2. Navigate to the project folder:
 
 ```cmd
-cd handling-crud-actions-using-fetch-api-and-react-grid-events
+cd https://github.com/SyncfusionExamples/Sorting-in-react-data-grid.git
 ```
 
 3. Install dependencies:
